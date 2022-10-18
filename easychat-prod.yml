@@ -3,6 +3,7 @@ easychat:
     clientId: ${CLIENT_ID}
     clientSecret: ${CLIENT_SECRET}
 
+
 spring:
   datasource:
     url: jdbc:postgresql://${BD_URL}
